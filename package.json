@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-fastlint",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint for code style",
   "keywords": [
     "eslint",
