@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-fastlint",
+  "version": "0.0.1",
+  "description": "eslint for code style",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "kaipat",
+  "main": "./lib/index.js",
+  "exports": "./lib/index.js",
+  "scripts": {
+    "upload": "npm version patch && npm publish"
+  },
+  "license": "MIT"
+}
